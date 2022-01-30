@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta disponível para teste em [https://leonardomarconi.github.io/gerador_de_senha/](https://leonardomarconi.github.io/gerador_de_senha/)
+Está disponível para teste em [https://leonardomarconi.github.io/gerador_de_senha/](https://leonardomarconi.github.io/gerador_de_senha/)
 
 ## 📷 Screenshot  
 <div style="flex-direction: row;">
