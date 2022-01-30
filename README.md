@@ -16,6 +16,6 @@ Esta disponível para teste em [https://leonardomarconi.github.io/gerador_de_sen
 ## 📷 Screenshot  
 <div style="flex-direction: row;">
 
-<img style="flex-direction: row;" alt="Tela Principal" src="https://drive.google.com/uc?export=view&id=1mzlMLQcGxhESialkvTlsJUmvukxQUajI" width="800" height="600">
+<img style="flex-direction: row;" alt="Tela Principal" src="https://drive.google.com/uc?export=view&id=1mzlMLQcGxhESialkvTlsJUmvukxQUajI" width="900" height="600">
 
 </div>
